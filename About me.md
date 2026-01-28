@@ -1,4 +1,4 @@
-# Hi 🙋‍♀️ I'm Chandrika.c
+# Hi 🙋‍♀️ I'm Chandrika.C
 🎓 MCA Student (2026)
 💻 Aspiring Python & web Developer
 🌱 Currently learning Python,HTML,CSS & GitHub
